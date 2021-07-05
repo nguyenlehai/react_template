@@ -1,0 +1,6 @@
+{
+  "Hello": "Xin chào",
+  "Queries": {
+    "TotalRecord": "Có tất cả {{total}} bản ghi"
+  }
+}
